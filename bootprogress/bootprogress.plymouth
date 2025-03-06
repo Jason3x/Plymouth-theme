@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=bootprogress
+Description=display bootprogress
+Comment=created By Jason
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bootprogress
+ScriptFile=/usr/share/plymouth/themes/bootprogress/bootprogress.script
