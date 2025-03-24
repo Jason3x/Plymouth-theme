@@ -6,4 +6,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/computer-terminal
-ScriptFile=/usr/share/plymouth/themes/gameboyadv/computer-terminal.script
+ScriptFile=/usr/share/plymouth/themes/compute-rterminal/computer-terminal.script
