@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=gameboyadv
+Description=a gameboy advance display
+Comment=created By Jason
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/gameboyadv
+ScriptFile=/usr/share/plymouth/themes/gameboyadv/gameboyadv.script
